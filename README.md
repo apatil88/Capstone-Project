@@ -3,7 +3,7 @@ Udacity Android Developer Nanodegree
 
 Make A Note
 
-Description
+Description:
 Simple note taking app that allows you to take notes, store and retrieve them in an organized manner.
 
 Key Features:
@@ -13,7 +13,7 @@ Using your phone’s camera, click and store photos with your note.
 Set reminders on your note so that you can get your tasks done at the right time.
 Compatible with phones and tablets.
 
-Intended User
+Intended User:
 Make A Note is an Android application intended for anyone who likes to take notes in order to perform their tasks.
 
 Features
