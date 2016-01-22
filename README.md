@@ -16,7 +16,7 @@ Compatible with phones and tablets.
 Intended User:
 Make A Note is an Android application intended for anyone who likes to take notes in order to perform their tasks.
 
-Features
+Features:
 The main features of Make A Note are as follows:
 This app allows you to save notes on the local device and Cloud platform services like Google Drive and Dropbox.
 This app allows you to take pictures and save it along with your notes.
