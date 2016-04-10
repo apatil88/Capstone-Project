@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_id": "makeanote-app-1259",
+    "project_number": "918905294509",
+    "name": "makeanote-app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918905294509:android:6110fa145072fd43",
+        "client_id": "android:com.amrutpatil.makeanote",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.amrutpatil.makeanote",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918905294509-tbfanoetm3gptgtnnu77cncl5aip07n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amrutpatil.makeanote",
+            "certificate_hash": "E84F1A41A6C9812C90C14C0769D8B0883DC2979F"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 2,
+          "test_banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
+          "test_interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712"
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
