@@ -2,6 +2,7 @@
 Udacity Android Developer Nanodegree
 
 Instructions:
+
   Please use an API key for authenticating with Dropbox. An API key can be obtained from https://www.dropbox.com/developers/apps once you create a new account with Dropbox.
   Place the Dropbox App Key in the AndroidManifest.xml file after the prefix db- . Eg. db-abc123. Search for the comment <!-- Place Dropbox App key here -->
   Place the Dropbox App Key and Dropbox Secret Key in AppConstant.java. Search for the string name "APP_KEY" and "APP_SECRET". NOTE: Do not use "db-" prefix for Dropbox app key here.
